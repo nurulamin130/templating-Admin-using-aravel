@@ -11,15 +11,17 @@
                                 <div class="card">
                                     <div class="card-header">
                                         <h4>about Us</h4>
+
+                                        <h3>Nurul amin</h3>
                                     </div>
-                                     
+
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi accusantium porro architecto aliquid quibusdam. At error minus tenetur magni sint.</p>
-                               
-                               
+
+
                             </div>
-                           
+
                         </div>
-                        
+
 </div>
 @endsection('content')
